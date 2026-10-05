@@ -1,0 +1,3 @@
+function sm-local --wraps='SUPERMEMORY_BASE_URL=http://localhost:6767 SUPERMEMORY_API_KEY=local supermemory' --wraps='SUPERMEMORY_API_KEY=sm_GLLDmKZ42WF7DaHbrc3ehY_AG638sNmxmCCjZj8VD4CC6hFC6XmBK2o9yjCToqXKG9fdAyqmMDSA4y0sXeKzzSI supermemory' --description 'alias sm-local=SUPERMEMORY_API_KEY=sm_GLLDmKZ42WF7DaHbrc3ehY_AG638sNmxmCCjZj8VD4CC6hFC6XmBK2o9yjCToqXKG9fdAyqmMDSA4y0sXeKzzSI supermemory'
+    SUPERMEMORY_API_KEY=sm_GLLDmKZ42WF7DaHbrc3ehY_AG638sNmxmCCjZj8VD4CC6hFC6XmBK2o9yjCToqXKG9fdAyqmMDSA4y0sXeKzzSI supermemory $argv
+end
